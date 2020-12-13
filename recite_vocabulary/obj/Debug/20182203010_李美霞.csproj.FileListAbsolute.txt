@@ -1,0 +1,10 @@
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\bin\Debug\20182203010_李美霞.exe.config
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\bin\Debug\20182203010_李美霞.exe
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\bin\Debug\20182203010_李美霞.pdb
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\obj\Debug\20182203010_李美霞.csprojAssemblyReference.cache
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\obj\Debug\_20182203010_李美霞.Form1.resources
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\obj\Debug\_20182203010_李美霞.Properties.Resources.resources
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\obj\Debug\20182203010_李美霞.csproj.GenerateResource.cache
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\obj\Debug\20182203010_李美霞.csproj.CoreCompileInputs.cache
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\obj\Debug\20182203010_李美霞.exe
+C:\Users\rabbit\Desktop\Ido\人机交互\20182203010_李美霞\obj\Debug\20182203010_李美霞.pdb
